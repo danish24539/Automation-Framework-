@@ -9,14 +9,14 @@ import org.openqa.selenium.WebDriver;
 
 public class InitializationStepDef extends BaseClass{
 
-    @Before
-    public void methpod1(){
-        System.out.println("before method1");
-//        demo();
-        BrowserInitiation();
-
-
-    }
+//    @Before
+//    public void methpod1(){
+//        System.out.println("before method1");
+////        demo();
+//        BrowserInitiation();
+//
+//
+//    }
 
 //    @Test
 //    public void demo(){
@@ -30,12 +30,12 @@ public class InitializationStepDef extends BaseClass{
 //        System.out.println("before step ");
 //    }
 
-    @After
-    public void method2(){
-//        driver.close();
-        System.out.println("After method");
-
-    }
-
+//    @After
+//    public void method2(){
+////        driver.close();
+//        System.out.println("After method");
+//
+//    }
+//
 
 }
