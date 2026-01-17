@@ -28,6 +28,15 @@ public class LoginPageObjects extends BaseClass {
 
 
 
+    public void user_login_flow(){
+        System.out.println("inside page object method");
+        geturl("https://google.com");
+
+    }
+
+
+
+
 
 
 }
